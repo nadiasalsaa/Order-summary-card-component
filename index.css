@@ -38,7 +38,7 @@ body {
     padding: 10px 50px;
 }
 
-.card-order h2{
+.card-order h1{
     text-align: center;
     font-weight: 900;
     color: var(--dark-blue);
